@@ -67,6 +67,13 @@
                             </div>
                         </div>
                     </form>
+                    <div style ="text-align:right;">
+                        <a class="btn btn-link" href="{{ route('register') }}">
+                            <button type="submit" class="btn btn-primary"  style="background-color:blue">
+                                {{ __('Register') }}
+                            </button>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

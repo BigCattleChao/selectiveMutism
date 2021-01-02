@@ -18,9 +18,9 @@
                 <li class="nav-item @yield('nav_products') px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="{{route ( 'products' )}}">Products</a>
                 </li>
-                <li class="nav-item @yield('nav_store') px-lg-4">
+                <!-- <li class="nav-item @yield('nav_store') px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="{{route ( 'store' )}}">Store</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>

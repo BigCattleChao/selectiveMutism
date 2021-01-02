@@ -11,11 +11,11 @@
         <div class="col-xl-9 col-lg-10 mx-auto">
           <div class="bg-faded rounded p-5">
             <h2 class="section-heading mb-4">
-              <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
-              <span class="section-heading-lower">About Our Cafe</span>
+              <span class="section-heading-upper">關於選擇性緘默症</span>
+              <span class="section-heading-lower">About SELECTIVE MUTISM</span>
             </h2>
-            <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
-            <p class="mb-0">We guarantee that you will fall in <em>lust</em> with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.</p>
+            <p>是一種社交焦慮症，患者有正常説話的能力，但在特定情境下就是說不出口。《精神疾病診斷與統計手冊》把選擇性緘默症描述為兒童的罕見心理失調。患有這症的兒童和成人能正常說話和理解語言，但在某些社交場合卻無法說話。他們其他行為和學習能力都正常，儘管他們會不願意參與團體活動。這就像是極端的害羞。</p>
+            <p class="mb-0">但是症狀的保持和程度，顯然與害羞相異，譬如一個小孩在學校裡完全靜默，在家中卻能自由說話，不過如有陌生人在場可能又令小孩靜默。</p>
           </div>
         </div>
       </div>
